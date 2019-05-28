@@ -1,0 +1,16 @@
+usename- swarnitw007@gmail.com
+password-swarnitw007
+
+ git clone https://github.com/swarnitwayal/projecta1.git
+   cd ~
+   cd Desktop/
+   mkdir projecta1
+   cd projecta1
+   git clone https://github.com/swarnitwayal/projecta1.git
+   ls
+   cd projecta1/
+   ls
+   git add abc.java
+   git commit -m "I have made a java code"
+   git push
+ 
